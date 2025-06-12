@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- [Solution page]()
-- [Live site]()
+- [Solution page](https://www.frontendmentor.io/solutions/qr-code-component-ynaJ6ISAS_)
+- [Live site](https://risaysky.github.io/Frontend-Mentor-Qr-code-component/)
 
 ## Built with
 
