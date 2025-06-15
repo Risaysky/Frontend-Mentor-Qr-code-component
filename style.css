@@ -21,7 +21,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    block-size: 100vh;
+    min-block-size: 100vh;
     background-color: var(--slate-300);
     font-family: "Outfit", sans-serif;
 }
@@ -40,7 +40,7 @@ img {
     border-radius: 20px;
     padding: 1rem;
     box-shadow: rgb(0 0 0 / .0477) 0 25px 25px;
-    margin-inline: 1.563rem;
+    margin: 1.563rem;
 }
 
 h1 {
